@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.61001cfb.css",
-    "main.js": "/static/js/main.523b0b38.js",
-    "static/media/robert.jpg": "/static/media/robert.0e569ce8ca53a40b8fd0.jpg",
-    "static/media/rob.jpg": "/static/media/rob.737feda596045e211062.jpg",
-    "static/media/Robert_Headshot.jpeg": "/static/media/Robert_Headshot.af9866e07cc40467573d.jpeg",
-    "static/media/1080_robers_logo_animation.webm": "/static/media/1080_robers_logo_animation.b5b4a56d06e934d04f8f.webm",
-    "static/media/rob2.jpg": "/static/media/rob2.543b2a0abbaecf8cf629.jpg",
-    "static/media/vengence-2.webp": "/static/media/vengence-2.2c3e36d237b6d3c1b68a.webp",
-    "static/media/vengence.webp": "/static/media/vengence.bd0f763d30082dc9e702.webp",
-    "index.html": "/index.html",
-    "main.61001cfb.css.map": "/static/css/main.61001cfb.css.map",
-    "main.523b0b38.js.map": "/static/js/main.523b0b38.js.map"
+    "main.css": "/home/static/css/main.61001cfb.css",
+    "main.js": "/home/static/js/main.9a64c569.js",
+    "static/media/robert.jpg": "/home/static/media/robert.0e569ce8ca53a40b8fd0.jpg",
+    "static/media/rob.jpg": "/home/static/media/rob.737feda596045e211062.jpg",
+    "static/media/Robert_Headshot.jpeg": "/home/static/media/Robert_Headshot.af9866e07cc40467573d.jpeg",
+    "static/media/1080_robers_logo_animation.webm": "/home/static/media/1080_robers_logo_animation.b5b4a56d06e934d04f8f.webm",
+    "static/media/rob2.jpg": "/home/static/media/rob2.543b2a0abbaecf8cf629.jpg",
+    "static/media/vengence-2.webp": "/home/static/media/vengence-2.2c3e36d237b6d3c1b68a.webp",
+    "static/media/vengence.webp": "/home/static/media/vengence.bd0f763d30082dc9e702.webp",
+    "index.html": "/home/index.html",
+    "main.61001cfb.css.map": "/home/static/css/main.61001cfb.css.map",
+    "main.9a64c569.js.map": "/home/static/js/main.9a64c569.js.map"
   },
   "entrypoints": [
     "static/css/main.61001cfb.css",
-    "static/js/main.523b0b38.js"
+    "static/js/main.9a64c569.js"
   ]
 }
